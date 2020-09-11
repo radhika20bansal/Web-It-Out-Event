@@ -74,7 +74,7 @@ section{
     text-transform: uppercase;
     box-shadow: 0 3px 5px black;
 }
-.button:hover{
+button:hover{
     cursor: pointer;
 }
 .signup{
